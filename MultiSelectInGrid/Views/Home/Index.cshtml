@@ -1,0 +1,100 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<script type="text/kendo" id="territoriesTemplate">
+    <ul>
+        #for(var i = 0; i < Territories.length; i++){#
+            <li>#:Territories[i].TerritoryDescription#</li>
+        #}#
+    </ul>
+</script>
+
+
+<div id="grid">
+</div>
+<script>
+    var territories = @(Html.Raw(Json.Encode(ViewData["territories"])));
+    $("#grid").kendoGrid({
+        dataSource: {
+           transport:{
+                read:{
+                    url:"/Home/Read",
+                    type: "POST",
+                    dataType: "json"
+                },
+                update:{
+                    url:"/Home/Update",
+                    type: "POST",
+                    dataType: "json"
+                },
+                create: {
+                    url:"/Home/Create",
+                    type: "POST",
+                    dataType: "json"
+                },
+                parameterMap: function (options, operation) {
+                    if (operation !== "read") {
+                        for(var field in options) {
+                            if(options[field] instanceof Date) {
+                                options[field] = kendo.format("{0:G}", options[field]);
+                            } else if ($.isArray(options[field])){
+                                serializeArray(field, options[field], options);
+                            }                           
+                        }
+                    }
+                    return options;
+                }
+            },
+            schema:{
+                model:{
+                    id: "EmployeeID",
+                    fields: {
+                        EmployeeID: {editable:false, type:"number"},
+                        HireDate: {type:"date"},
+                        Territories: {defaultValue:[]}
+                    }
+                }
+            }
+        },
+        editable: "inline",
+        toolbar: ["create"],
+        columns: [{
+                command: "edit"
+            }, 
+            "EmployeeID",
+            "FirstName",
+            "LastName",
+            "Title", {
+                field: "HireDate",
+                format: "{0:d}"
+            }, {
+                field: "Territories",
+                template: kendo.template($("#territoriesTemplate").html()),
+                editor: function (container) {
+                    $("<select multiple='multiple' data-bind='value: Territories'></select>")
+                        .appendTo(container)
+                        .kendoMultiSelect({
+                            dataSource: territories,
+                            dataTextField: "TerritoryDescription",
+                            dataValueField: "TerritoryID"
+                        });                        
+                }
+            }                        
+        ]
+    });
+
+    
+    function serializeArray(prefix, array, result) {
+        for (var i = 0; i < array.length; i++) {
+            if ($.isPlainObject(array[i])) {
+                for (var property in array[i]) {
+                    result[prefix + "[" + i + "]." + property] = array[i][property];
+                }
+            }
+            else {
+                result[prefix + "[" + i + "]"] = array[i];
+            }
+        }
+    }
+</script>

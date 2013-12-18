@@ -1,0 +1,58 @@
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\bin\MultiSelectInGrid.dll
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\bin\MultiSelectInGrid.pdb
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\bin\Kendo.Mvc.dll
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\bin\Kendo.Mvc.xml
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\bin\bg-BG\Kendo.Mvc.resources.dll
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\bin\da-DK\Kendo.Mvc.resources.dll
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\bin\de-DE\Kendo.Mvc.resources.dll
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\bin\es-ES\Kendo.Mvc.resources.dll
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\bin\fr-FR\Kendo.Mvc.resources.dll
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\bin\nl-NL\Kendo.Mvc.resources.dll
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\bin\pl-PL\Kendo.Mvc.resources.dll
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\bin\pt-BR\Kendo.Mvc.resources.dll
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\bin\pt-PT\Kendo.Mvc.resources.dll
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\bin\ru-RU\Kendo.Mvc.resources.dll
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\bin\sv-SE\Kendo.Mvc.resources.dll
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\bin\uk-UA\Kendo.Mvc.resources.dll
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\bin\zh-CN\Kendo.Mvc.resources.dll
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\obj\Debug\MultiSelectInGrid.csprojResolveAssemblyReference.cache
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\obj\Debug\MultiSelectInGrid.dll
+C:\GitTest\MultiSelectInGrid\MultiSelectInGrid\obj\Debug\MultiSelectInGrid.pdb
+C:\Users\subev\Downloads\MultiSelectInGrid\MultiSelectInGrid\MultiSelectInGrid\bin\MultiSelectInGrid.dll
+C:\Users\subev\Downloads\MultiSelectInGrid\MultiSelectInGrid\MultiSelectInGrid\bin\MultiSelectInGrid.pdb
+C:\Users\subev\Downloads\MultiSelectInGrid\MultiSelectInGrid\MultiSelectInGrid\bin\Kendo.Mvc.xml
+C:\Users\subev\Downloads\MultiSelectInGrid\MultiSelectInGrid\MultiSelectInGrid\bin\bg-BG\Kendo.Mvc.resources.dll
+C:\Users\subev\Downloads\MultiSelectInGrid\MultiSelectInGrid\MultiSelectInGrid\bin\da-DK\Kendo.Mvc.resources.dll
+C:\Users\subev\Downloads\MultiSelectInGrid\MultiSelectInGrid\MultiSelectInGrid\bin\de-DE\Kendo.Mvc.resources.dll
+C:\Users\subev\Downloads\MultiSelectInGrid\MultiSelectInGrid\MultiSelectInGrid\bin\es-ES\Kendo.Mvc.resources.dll
+C:\Users\subev\Downloads\MultiSelectInGrid\MultiSelectInGrid\MultiSelectInGrid\bin\fr-FR\Kendo.Mvc.resources.dll
+C:\Users\subev\Downloads\MultiSelectInGrid\MultiSelectInGrid\MultiSelectInGrid\bin\nl-NL\Kendo.Mvc.resources.dll
+C:\Users\subev\Downloads\MultiSelectInGrid\MultiSelectInGrid\MultiSelectInGrid\bin\pl-PL\Kendo.Mvc.resources.dll
+C:\Users\subev\Downloads\MultiSelectInGrid\MultiSelectInGrid\MultiSelectInGrid\bin\pt-BR\Kendo.Mvc.resources.dll
+C:\Users\subev\Downloads\MultiSelectInGrid\MultiSelectInGrid\MultiSelectInGrid\bin\pt-PT\Kendo.Mvc.resources.dll
+C:\Users\subev\Downloads\MultiSelectInGrid\MultiSelectInGrid\MultiSelectInGrid\bin\ru-RU\Kendo.Mvc.resources.dll
+C:\Users\subev\Downloads\MultiSelectInGrid\MultiSelectInGrid\MultiSelectInGrid\bin\sv-SE\Kendo.Mvc.resources.dll
+C:\Users\subev\Downloads\MultiSelectInGrid\MultiSelectInGrid\MultiSelectInGrid\bin\uk-UA\Kendo.Mvc.resources.dll
+C:\Users\subev\Downloads\MultiSelectInGrid\MultiSelectInGrid\MultiSelectInGrid\bin\zh-CN\Kendo.Mvc.resources.dll
+C:\Users\subev\Downloads\MultiSelectInGrid\MultiSelectInGrid\MultiSelectInGrid\obj\Debug\MultiSelectInGrid.csprojResolveAssemblyReference.cache
+C:\Users\subev\Downloads\MultiSelectInGrid\MultiSelectInGrid\MultiSelectInGrid\obj\Debug\MultiSelectInGrid.dll
+C:\Users\subev\Downloads\MultiSelectInGrid\MultiSelectInGrid\MultiSelectInGrid\obj\Debug\MultiSelectInGrid.pdb
+C:\Users\Daniel\Downloads\378389_gridinform\New folder\MultiSelectInGrid\bin\MultiSelectInGrid.dll
+C:\Users\Daniel\Downloads\378389_gridinform\New folder\MultiSelectInGrid\bin\MultiSelectInGrid.pdb
+C:\Users\Daniel\Downloads\378389_gridinform\New folder\MultiSelectInGrid\bin\Kendo.Mvc.xml
+C:\Users\Daniel\Downloads\378389_gridinform\New folder\MultiSelectInGrid\bin\bg-BG\Kendo.Mvc.resources.dll
+C:\Users\Daniel\Downloads\378389_gridinform\New folder\MultiSelectInGrid\bin\da-DK\Kendo.Mvc.resources.dll
+C:\Users\Daniel\Downloads\378389_gridinform\New folder\MultiSelectInGrid\bin\de-DE\Kendo.Mvc.resources.dll
+C:\Users\Daniel\Downloads\378389_gridinform\New folder\MultiSelectInGrid\bin\es-ES\Kendo.Mvc.resources.dll
+C:\Users\Daniel\Downloads\378389_gridinform\New folder\MultiSelectInGrid\bin\fr-FR\Kendo.Mvc.resources.dll
+C:\Users\Daniel\Downloads\378389_gridinform\New folder\MultiSelectInGrid\bin\nl-NL\Kendo.Mvc.resources.dll
+C:\Users\Daniel\Downloads\378389_gridinform\New folder\MultiSelectInGrid\bin\pl-PL\Kendo.Mvc.resources.dll
+C:\Users\Daniel\Downloads\378389_gridinform\New folder\MultiSelectInGrid\bin\pt-BR\Kendo.Mvc.resources.dll
+C:\Users\Daniel\Downloads\378389_gridinform\New folder\MultiSelectInGrid\bin\pt-PT\Kendo.Mvc.resources.dll
+C:\Users\Daniel\Downloads\378389_gridinform\New folder\MultiSelectInGrid\bin\ru-RU\Kendo.Mvc.resources.dll
+C:\Users\Daniel\Downloads\378389_gridinform\New folder\MultiSelectInGrid\bin\sv-SE\Kendo.Mvc.resources.dll
+C:\Users\Daniel\Downloads\378389_gridinform\New folder\MultiSelectInGrid\bin\uk-UA\Kendo.Mvc.resources.dll
+C:\Users\Daniel\Downloads\378389_gridinform\New folder\MultiSelectInGrid\bin\zh-CN\Kendo.Mvc.resources.dll
+C:\Users\Daniel\Downloads\378389_gridinform\New folder\MultiSelectInGrid\obj\Debug\MultiSelectInGrid.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\378389_gridinform\New folder\MultiSelectInGrid\obj\Debug\MultiSelectInGrid.dll
+C:\Users\Daniel\Downloads\378389_gridinform\New folder\MultiSelectInGrid\obj\Debug\MultiSelectInGrid.pdb
